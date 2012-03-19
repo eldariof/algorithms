@@ -1,0 +1,14 @@
+#java specific
+*.class
+target/
+test-output/
+test-output/Default/
+.gitignore
+.classpath
+.project
+.settings/
+activemq-data/
+.DS_Store
+.springbeans
+#javadoc
+doc/
